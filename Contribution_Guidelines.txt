@@ -1,0 +1,82 @@
+CONTRIBUTION GUIDELINES
+=======================
+
+Thank you for your interest in contributing to the FastVPN Manager project! We appreciate your help in improving this tool. Please read through these guidelines to learn how you can contribute effectively.
+
+1. CODE OF CONDUCT
+------------------
+All contributors are expected to adhere to our Code of Conduct. This document outlines our expectations for participant behavior and the consequences for unacceptable behavior. Please familiarize yourself with it before participating in our community.
+
+2. HOW TO CONTRIBUTE
+--------------------
+
+   a. Reporting Bugs
+   -----------------
+   - Ensure the bug is not already reported by searching existing issues.
+   - Provide a clear and descriptive title.
+   - Include a detailed description of the bug, including steps to reproduce it.
+   - Mention the environment where the bug was encountered (OS, Python version, etc.).
+   - If possible, include screenshots or logs that might help in diagnosing the issue.
+
+   b. Suggesting Enhancements
+   --------------------------
+   - Search for existing suggestions to avoid duplicates.
+   - Provide a clear and concise description of the enhancement.
+   - Explain why this feature would be beneficial to users.
+   - If possible, describe the approach you would take to implement the enhancement.
+
+   c. Pull Requests
+   ----------------
+   - Fork the repository and create your branch from the 'main' branch.
+   - Ensure your code is well-documented and adheres to the project's coding standards.
+   - Test your changes thoroughly.
+   - Write a detailed commit message explaining the changes made.
+   - Submit your pull request and ensure it includes a comprehensive description of the changes.
+
+3. DEVELOPMENT PROCESS
+----------------------
+
+   a. Setup and Installation
+   -------------------------
+   - Clone the repository: `git clone https://github.com/yourusername/FastVPN-Manager.git`
+   - Navigate into the project directory: `cd FastVPN-Manager`
+   - Install dependencies: `pip install -r requirements.txt`
+   - Ensure you have OpenVPN and curl installed and configured on your system.
+
+   b. Branching Model
+   ------------------
+   - Use the 'main' branch for the latest stable release.
+   - Create feature branches from 'main' using the naming convention: `feature/feature-name`.
+   - Create bugfix branches using the naming convention: `bugfix/issue-name`.
+
+   c. Coding Standards
+   -------------------
+   - Follow PEP 8 style guidelines for Python code.
+   - Write clear, descriptive comments and docstrings.
+   - Keep code DRY (Don't Repeat Yourself) and modular.
+
+   d. Commit Messages
+   ------------------
+   - Write clear, concise commit messages.
+   - Use the imperative mood in the subject line (e.g., "Add feature X").
+   - Provide a detailed description in the body if necessary.
+
+4. TESTING
+----------
+- Ensure your code changes do not break existing functionality.
+- Add tests for new features and bug fixes.
+- Run tests locally before submitting a pull request.
+
+5. DOCUMENTATION
+----------------
+- Update documentation for any changes in functionality.
+- Ensure all public methods and classes are documented.
+- Use clear and concise language in the documentation.
+
+6. COMMUNITY AND SUPPORT
+------------------------
+- Join our community forum or Discord server to engage with other contributors.
+- Reach out if you have questions or need guidance on your contributions.
+- Respect others and foster a welcoming and inclusive environment.
+
+Thank you for your contributions and support!
