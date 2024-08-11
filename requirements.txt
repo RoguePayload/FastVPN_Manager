@@ -1,0 +1,32 @@
+# requirements.txt for FastVPN Manager
+
+# colorama: Used for colored text in the terminal to enhance user interface readability.
+# Version 0.4.6 is the latest stable version that provides robust cross-platform support for colored text.
+colorama
+
+# cryptography: Provides cryptographic recipes and primitives to encrypt and decrypt sensitive information like VPN credentials.
+# Version 41.0.2 ensures compatibility with the latest Python releases and security patches.
+cryptography
+
+# requests: A simple and user-friendly HTTP library for making web requests.
+# Used to fetch external IP addresses from an online API.
+# Version 2.31.0 offers improved performance and bug fixes.
+requests
+
+# ipinfo: This library is used to interact with the ipinfo.io API for retrieving detailed IP information.
+# Version 4.0.0 is stable and integrates well with other libraries for IP data retrieval.
+# Note: This package might not be necessary if you're using raw requests and parsing yourself.
+ipinfo
+
+# Optional libraries that are useful during development and debugging
+# Ensure they are commented out or removed in production.
+
+# pylint: A Python static code analysis tool that helps identify bugs and enforce a coding standard.
+# pylint
+
+# black: The uncompromising code formatter for Python.
+# It helps maintain a consistent code style throughout the project.
+# black
+
+# ipywidgets: Used to create interactive widgets in Jupyter Notebooks. Useful for developing GUI-based features.
+# ipywidgets
