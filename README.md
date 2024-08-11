@@ -1,6 +1,6 @@
 # FastVPN Manager
 
-![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.6%2B-brightgreen) ![OpenVPN](https://img.shields.io/badge/OpenVPN-Compatible-yellowgreen) ![Downloads](https://img.shields.io/github/downloads/yourusername/FastVPN-Manager/total)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.6%2B-brightgreen) ![OpenVPN](https://img.shields.io/badge/OpenVPN-Compatible-yellowgreen) ![Downloads](https://img.shields.io/github/downloads/RoguePayload/FastVPN_Manager/total)
 
 FastVPN Manager is a command-line tool designed to simplify the management of FastVPN connections provided by NameCheap. It allows users to easily set up VPN credentials, connect to VPN servers using TCP or UDP protocols, check connection status, and disconnect from the VPN with ease.
 
